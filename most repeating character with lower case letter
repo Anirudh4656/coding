@@ -1,0 +1,29 @@
+// Online C++ compiler to run C++ program online
+#include <iostream>
+using namespace std;
+#include <bits/stdc++.h>
+void findMostOccurringChar(vector<string>str){
+    int n=str.size();
+    int maxi=0;
+    int freq[26]={0};
+    for(int i=0;i<n; i++ ){
+        
+        for(int j=0;j<str[i].size();j++){
+            freq[str[i][j]-'a']++;
+            
+            
+        }
+    }
+    for(int i=0;i<26;i++){
+        maxi=max(maxi,freq[i]);
+    }
+    cout<<maxi;
+    
+}
+int main() {
+   vector<string>str={"apple","banana","app"};
+   findMostOccurringChar(str);
+
+    return 0;
+}
+time complexity=o(N*M)
