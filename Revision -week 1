@@ -1,0 +1,15 @@
+# day-1
+bool isThree(int n) {
+        if(n<4){return false;}
+
+        vector<int>ans;
+        for(int i=1;i*i<=n;i++){
+            if(n%i==0){ ans.push_back(i);
+             if(i != n/i) ans.push_back(n/i);
+            };
+           if(ans.size()>3)return false;
+           
+        }
+        return (ans.size()==3);
+        
+    }
