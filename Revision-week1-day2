@@ -1,0 +1,4 @@
+SELECT t.id 
+FROM Weather y,Weather t
+where DATEDIFF(t.recordDate,y.recordDate)=1
+AND t.temperature > y.temperature
