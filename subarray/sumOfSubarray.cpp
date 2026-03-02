@@ -23,9 +23,8 @@ int main() {
     return 0;
 }
 //optimised
-//o(n)
-ardwaj
-2 days agoFeb 18, 2026 10:55 (GMT +5:30)
+//o(n) when there is negative in subarray only then valid 
+
 
 class Solution {
     int maxSubarraySum(int[] arr) {

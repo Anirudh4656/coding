@@ -1,0 +1,69 @@
+sliding window question
+Longest Substring Without Repeating Characters
+Maximum Points You Can Obtain from Cards
+Fruits Into Baskets
+Longest Repeating Character Replacement
+Number of Substrings Containing All Three Characters
+Count Number of Nice Subarrays
+//String
+Roman To Integer
+
+Max Nesting Depth
+
+Strings to Integer (ATOI)
+
+Count Number of Substrings
+
+Longest Palindromic Substring
+
+Sum of Beauty of All Substrings
+
+Strings in One Shot
+
+Sort Characters By Frequency
+//Array
+Subarray Sum Equals K
+
+Spiral Matrix
+
+Rotate Image
+
+Set Matrix Zero
+Sort Colors
+
+Two Sum
+
+
+
+Missing Number
+
+Union of Two Sorted Arrays
+
+Sorted Array Search
+
+Move Zeroes
+
+Rotate Array
+
+Remove Duplicates from Sorted Array
+
+Check if Array is Rotated
+
+Second Largest Element
+
+Largest Element
+Longest Consecutive Sequence
+
+Array Leaders
+
+Next Permutation
+
+Rearrange Array Elements by Sign
+
+
+Maximum Score from Subarray Minimum
+
+Maximum Subarray
+
+Majority Element
+//stacks and queue

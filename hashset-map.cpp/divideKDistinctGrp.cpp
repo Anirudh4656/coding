@@ -27,7 +27,8 @@ public:
                 return false;
             }
         }
-
+//we are checking this condition for the repeating element if any of the repeating element is occuring more than allowed grp than it is involving in 
+//grp formation so no distinct element in grp are presene
         // If all numbers satisfy the condition, partition is possible
         return true;
     }
