@@ -5,7 +5,7 @@ class Solution{
     bool isPrime(int data){
         if(data <=1)return false;
         int count =0;
-        for(int i=1;i*i<=data;i++){
+        for(int i=2;i*i<=data;i++){
             if(data%i==0){
               return false;
             }

@@ -15,4 +15,4 @@ class Solution {
         }
     }
 };
-//logic is simple pick smaaler index and swap 
+//logic is simple pick smaller index where arr[samllerI]>arr[j] and swap 

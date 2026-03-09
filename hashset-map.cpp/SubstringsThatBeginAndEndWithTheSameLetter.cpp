@@ -14,7 +14,7 @@ class Solution{
         //     ans+=++mpp[]
         // }
         // return ans;
-        //   int cnt[26]{};
+        //   int cnt[26]{};-----way to initialize array
         // long long ans = 0;
         // for (char& c : s) {
         //     ans += ++cnt[c - 'a'];

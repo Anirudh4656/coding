@@ -6,64 +6,36 @@ Longest Repeating Character Replacement
 Number of Substrings Containing All Three Characters
 Count Number of Nice Subarrays
 //String
-Roman To Integer
-
+Roman To Integer--done
+Strings to Integer (ATOI)--done
+Count Number of Substrings--done
+Sum of Beauty of All Substrings--done
 Max Nesting Depth
-
-Strings to Integer (ATOI)
-
-Count Number of Substrings
-
 Longest Palindromic Substring
-
-Sum of Beauty of All Substrings
-
-Strings in One Shot
-
 Sort Characters By Frequency
+
 //Array
-Subarray Sum Equals K
+Subarray Sum Equals K--done
+Maximum Score from Subarray Minimum
+Maximum Subarray--done
 
 Spiral Matrix
-
 Rotate Image
-
 Set Matrix Zero
 Sort Colors
-
 Two Sum
-
-
-
 Missing Number
-
 Union of Two Sorted Arrays
-
 Sorted Array Search
-
 Move Zeroes
-
 Rotate Array
-
 Remove Duplicates from Sorted Array
-
 Check if Array is Rotated
-
 Second Largest Element
-
 Largest Element
 Longest Consecutive Sequence
-
 Array Leaders
-
 Next Permutation
-
 Rearrange Array Elements by Sign
-
-
-Maximum Score from Subarray Minimum
-
-Maximum Subarray
-
 Majority Element
 //stacks and queue

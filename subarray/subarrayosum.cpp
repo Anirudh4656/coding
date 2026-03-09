@@ -84,3 +84,16 @@ int main()
 📦 Space Complexity: O(n) – storing prefix sums in a set
 
 */
+//also can be done with unordered map
+  int n=nums.size();
+         int prefixSum=0;
+        unordered_map<int,int>mpp;
+       mpp[0]=1;
+       for(int i=0;i<n;i++){
+prefixSum+=nums[i];
+int rem=prefixSum-0;
+
+if( prefixSum==0 || mpp.count(rem)){
+    return true;
+}
+mpp[prefixSum]++;
